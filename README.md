@@ -831,7 +831,7 @@ contact.html
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-05-13 195451-1.png>)
-![alt text](<Screenshot 2024-05-13 195451-2.png>)
+![Screenshot 2024-05-13 195519-1](https://github.com/MugilRaj1105/softweb/assets/154905390/697c0b33-2905-4d2d-be88-ae07cd95789a)
 ![alt text](<Screenshot 2024-05-13 195555-1.png>)
 ![alt text](<Screenshot 2024-05-13 195622-1.png>)
 
